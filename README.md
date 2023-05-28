@@ -1,3 +1,3 @@
 ##  Tableau Dashboard
 
-<img src="Snapshot.png" alt="SS 1"/>
+<img src="Customer Survey Results.png" alt="SS 1"/>
